@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/fisherfaces.dir/src/main.cpp.o  -o fisherfaces -rdynamic libopencv_facerec.a /usr/lib/arm-linux-gnueabihf/libopencv_core.so.2.4.9 /usr/lib/arm-linux-gnueabihf/libopencv_imgproc.so.2.4.9 /usr/lib/arm-linux-gnueabihf/libopencv_highgui.so.2.4.9 /usr/lib/arm-linux-gnueabihf/libopencv_imgproc.so.2.4.9 /usr/lib/arm-linux-gnueabihf/libopencv_core.so.2.4.9 

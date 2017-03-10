@@ -1,0 +1,2 @@
+/home/pi/libface/bytefish-libfacerec-e1b143d/CMakeFiles/fisherfaces.dir
+/home/pi/libface/bytefish-libfacerec-e1b143d/CMakeFiles/opencv_facerec.dir
